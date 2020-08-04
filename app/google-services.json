@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588274759350",
+    "firebase_url": "https://smarttrash-5ea9c.firebaseio.com",
+    "project_id": "smarttrash-5ea9c",
+    "storage_bucket": "smarttrash-5ea9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588274759350:android:87df0af7d20c4a60809817",
+        "android_client_info": {
+          "package_name": "com.example.smarttrashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588274759350-kheuhr4epucns0ro5l5b02orrl2fu89j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pTwmepbd246ntCzwz-uEHkB7O5AbwAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588274759350-kheuhr4epucns0ro5l5b02orrl2fu89j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
